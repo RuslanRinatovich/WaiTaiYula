@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WaiTaiBDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Buy">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BuyDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Double" Nullable="false" />
+    <Property Name="LeftTotal" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Order_Buy" FromRole="Buy" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ServiceCategories" Relationship="Self.FK_ServiceType_Type" FromRole="Category" ToRole="ServiceCategory" />
+  </EntityType>
+  <EntityType Name="Master">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Info" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Photo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Order_Master" FromRole="Master" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="PriceListId" Type="Int32" Nullable="false" />
+    <Property Name="VisitDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MasterId" Type="Int32" Nullable="false" />
+    <Property Name="Visited" Type="Boolean" Nullable="false" />
+    <Property Name="Payed" Type="Boolean" Nullable="false" />
+    <Property Name="BuyId" Type="Int32" />
+    <Property Name="BuyPrice" Type="Double" />
+    <NavigationProperty Name="Buy" Relationship="Self.FK_Order_Buy" FromRole="Order" ToRole="Buy" />
+    <NavigationProperty Name="Master" Relationship="Self.FK_Order_Master" FromRole="Order" ToRole="Master" />
+    <NavigationProperty Name="PriceList" Relationship="Self.FK_Order_PriceList" FromRole="Order" ToRole="PriceList" />
+  </EntityType>
+  <EntityType Name="PriceList">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PriceTypeId" Type="Int32" Nullable="false" />
+    <Property Name="ServiceId" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK_Order_PriceList" FromRole="PriceList" ToRole="Order" />
+    <NavigationProperty Name="PriceType" Relationship="Self.FK_PriceList_PriceType" FromRole="PriceList" ToRole="PriceType" />
+    <NavigationProperty Name="Service" Relationship="Self.FK_PriceList_Service" FromRole="PriceList" ToRole="Service" />
+  </EntityType>
+  <EntityType Name="PriceType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Minutes" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="PriceLists" Relationship="Self.FK_PriceList_PriceType" FromRole="PriceType" ToRole="PriceList" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Photo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PriceLists" Relationship="Self.FK_PriceList_Service" FromRole="Service" ToRole="PriceList" />
+    <NavigationProperty Name="ServiceCategories" Relationship="Self.FK_ServiceType_Service" FromRole="Service" ToRole="ServiceCategory" />
+  </EntityType>
+  <EntityType Name="ServiceCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ServiceId" Type="Int32" Nullable="false" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="Self.FK_ServiceType_Type" FromRole="ServiceCategory" ToRole="Category" />
+    <NavigationProperty Name="Service" Relationship="Self.FK_ServiceType_Service" FromRole="ServiceCategory" ToRole="Service" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Order_Buy">
+    <End Role="Buy" Type="Self.Buy" Multiplicity="0..1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Buy">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="BuyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ServiceType_Type">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="ServiceCategory" Type="Self.ServiceCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ServiceCategory">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Master">
+    <End Role="Master" Type="Self.Master" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Master">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="MasterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_PriceList">
+    <End Role="PriceList" Type="Self.PriceList" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PriceList">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="PriceListId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PriceList_PriceType">
+    <End Role="PriceType" Type="Self.PriceType" Multiplicity="1" />
+    <End Role="PriceList" Type="Self.PriceList" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PriceType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PriceList">
+        <PropertyRef Name="PriceTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PriceList_Service">
+    <End Role="Service" Type="Self.Service" Multiplicity="1" />
+    <End Role="PriceList" Type="Self.PriceList" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Service">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PriceList">
+        <PropertyRef Name="ServiceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ServiceType_Service">
+    <End Role="Service" Type="Self.Service" Multiplicity="1" />
+    <End Role="ServiceCategory" Type="Self.ServiceCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Service">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ServiceCategory">
+        <PropertyRef Name="ServiceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DataBDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Buys" EntityType="Self.Buy" />
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="Masters" EntityType="Self.Master" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <EntitySet Name="PriceLists" EntityType="Self.PriceList" />
+    <EntitySet Name="PriceTypes" EntityType="Self.PriceType" />
+    <EntitySet Name="Services" EntityType="Self.Service" />
+    <EntitySet Name="ServiceCategories" EntityType="Self.ServiceCategory" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_Order_Buy" Association="Self.FK_Order_Buy">
+      <End Role="Buy" EntitySet="Buys" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ServiceType_Type" Association="Self.FK_ServiceType_Type">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="ServiceCategory" EntitySet="ServiceCategories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Master" Association="Self.FK_Order_Master">
+      <End Role="Master" EntitySet="Masters" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_PriceList" Association="Self.FK_Order_PriceList">
+      <End Role="PriceList" EntitySet="PriceLists" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PriceList_PriceType" Association="Self.FK_PriceList_PriceType">
+      <End Role="PriceType" EntitySet="PriceTypes" />
+      <End Role="PriceList" EntitySet="PriceLists" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PriceList_Service" Association="Self.FK_PriceList_Service">
+      <End Role="Service" EntitySet="Services" />
+      <End Role="PriceList" EntitySet="PriceLists" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ServiceType_Service" Association="Self.FK_ServiceType_Service">
+      <End Role="Service" EntitySet="Services" />
+      <End Role="ServiceCategory" EntitySet="ServiceCategories" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,265 @@
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\WpfWaiTai.exe.config
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\WpfWaiTai.exe
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\WpfWaiTai.pdb
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\EntityFramework.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\EntityFramework.SqlServer.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\MaterialDesignColors.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\EntityFramework.xml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\EntityFramework.SqlServer.xml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\MaterialDesignColors.pdb
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.pdb
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.xml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.xml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.AssemblyReference.cache
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.ResolveComReference.cache
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Dictionary1.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\MoreInfoService.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddBuyPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddMasterPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddOrderPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddServicePage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\BuyesPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\CatalogOfServices.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\CategoryPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\MastersPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\OrdersPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\PriceListTypesPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\RatePage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\ServicesPage.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\AddNewOrderWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\BuySertificateWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\CategoryWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\MainWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\MoreInfoService.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\PriceListWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\PriceTypeWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\App.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai_Content.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai_MarkupCompile.cache
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai_MarkupCompile.lref
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\App.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddBuyPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddMasterPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddOrderPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\AddServicePage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\BuyesPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\CatalogOfServices.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\CategoryPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\MastersPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\OrdersPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\PriceListTypesPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\RatePage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Pages\ServicesPage.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\AddNewOrderWindow.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\BuySertificateWindow.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\CategoryWindow.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\MainWindow.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\PriceListWindow.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\PriceTypeWindow.baml
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.g.resources
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.Properties.Resources.resources
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.GenerateResource.cache
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.CoreCompileInputs.cache
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.CopyComplete
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.exe
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\WpfWaiTai.pdb
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\LoginWindow.g.cs
+d:\ДИПЛОМ 2023\Игошина\WaiTai\WpfWaiTai\obj\Debug\Windows\LoginWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\WpfWaiTai.exe.config
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\WpfWaiTai.exe
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\WpfWaiTai.pdb
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.SqlServer.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignColors.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.xml
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.SqlServer.xml
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignColors.pdb
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csprojAssemblyReference.cache
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.ResolveComReference.cache
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Dictionary1.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\MoreInfoService.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddBuyPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddMasterPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddOrderPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddServicePage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\BuyesPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\CatalogOfServices.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\CategoryPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\MastersPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\OrdersPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\PriceListTypesPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\RatePage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\ServicesPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\AddNewOrderWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\BuySertificateWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\CategoryWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\LoginWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\MainWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\MoreInfoService.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceListWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceTypeWindow.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\App.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai_Content.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai_MarkupCompile.cache
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai_MarkupCompile.lref
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\App.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddBuyPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddMasterPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddOrderPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\AddServicePage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\BuyesPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\CatalogOfServices.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\CategoryPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\MastersPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\OrdersPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\PriceListTypesPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\RatePage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\ServicesPage.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\AddNewOrderWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\BuySertificateWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\CategoryWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\LoginWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\MainWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceListWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceTypeWindow.baml
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.g.resources
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.Properties.Resources.resources
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.GenerateResource.cache
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.CoreCompileInputs.cache
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.CopyComplete
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.exe
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.pdb
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\SellsPage.g.cs
+C:\DIPLOMS\Igoshina\WpfWaiTai\obj\Debug\Pages\SellsPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csprojAssemblyReference.cache
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.exe
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.pdb
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\WpfWaiTai.exe.config
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\WpfWaiTai.exe
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\WpfWaiTai.pdb
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignColors.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.xml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.ResolveComReference.cache
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Dictionary1.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\MoreInfoService.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddBuyPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddMasterPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddServicePage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\BuyesPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\CatalogOfServices.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\CategoryPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\MastersPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\PriceListTypesPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\RatePage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\SellsPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\AddNewOrderWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\BuySertificateWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\CategoryWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\MoreInfoService.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceListWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceTypeWindow.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\App.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai_Content.g.cs
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai_MarkupCompile.cache
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai_MarkupCompile.lref
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\App.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddBuyPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddMasterPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\AddServicePage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\BuyesPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\CatalogOfServices.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\CategoryPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\MastersPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\PriceListTypesPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\RatePage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\SellsPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Pages\ServicesPage.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\AddNewOrderWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\BuySertificateWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\CategoryWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\MainWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceListWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\Windows\PriceTypeWindow.baml
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.g.resources
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.Properties.Resources.resources
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.GenerateResource.cache
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.CoreCompileInputs.cache
+C:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Igoshina\WpfWaiTai\obj\Debug\WpfWaiTai.csproj.CopyComplete
